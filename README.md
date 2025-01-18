@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hossein</h1>
 <h3 align="center">A passionate kotlin developer from iran</h3>
 
-<img align="right" alt = "HosseinDevAt" width = "400" src = "https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif">
+<img align="right" alt = "HosseinDevAt" width = "300" src = "https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseindevat&label=Profile%20views&color=0e75b6&style=flat" alt="hosseindevat" /> </p>
 
