@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Hossein</h1>
 <h3 align="center">A passionate Kotlin developer from Iran</h3>
 
-<img align="right" alt="HosseinDevAt" width="300" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif">
+<br>
+<img align="right" alt="HosseinDevAt" width="350" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hosseindevat&label=Profile%20views&color=0e75b6&style=flat" alt="hosseindevat" /> 
@@ -15,7 +16,12 @@
 
 ### Connect with me:
 <p align="left">
-  <!-- Links to your social media or contact info can go here -->
+  <a href="https://www.linkedin.com/in/hossein-hosseini/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"/>
+  </a> 
+  <a href="https://github.com/hosseinDevAt?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150"/>
+  </a>
 </p>
 
 ### Languages and Tools:
@@ -51,8 +57,4 @@
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseindevat&show_icons=true&locale=en" alt="hosseindevat" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosseindevat&" alt="hosseindevat" />
 </p>
