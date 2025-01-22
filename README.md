@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/hosseinDevAt)
 - 📫 How to reach me: [hosseinhosseiniat@gmail.com](mailto:hosseinhosseiniat@gmail.com)
 <br>
-### Connect with me:
+Connect with me:
 <br>
 <p align="left">
   <a href="https://www.linkedin.com/in/hossein-hosseini/" target="_blank">
@@ -25,7 +25,7 @@
   </a>
 </p>
 <br>
-### Languages and Tools:
+Languages and Tools:
 <br>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -45,7 +45,7 @@
   </a>
 </p>
 <br>
-### GitHub Stats:
+GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseindevat&show_icons=true&locale=en&layout=compact&theme=dark" alt="hosseindevat" />
 </p>
