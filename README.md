@@ -42,12 +42,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
 </p>
-
-### Support:
-<p>
-  <a href="https://www.coffeebede.com/hosseindevat" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
 </p><br><br>
 
 ### GitHub Stats:
