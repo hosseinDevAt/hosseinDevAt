@@ -13,8 +13,9 @@
 - 🌱 I’m currently learning **Kotlin and Jetpack Compose**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/hosseinDevAt)
 - 📫 How to reach me: [hosseinhosseiniat@gmail.com](mailto:hosseinhosseiniat@gmail.com)
-
+<br>
 ### Connect with me:
+<br>
 <p align="left">
   <a href="https://www.linkedin.com/in/hossein-hosseini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"/>
@@ -23,8 +24,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150"/>
   </a>
 </p>
-
+<br>
 ### Languages and Tools:
+<br>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -42,8 +44,7 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
 </p>
-</p><br><br>
-
+<br>
 ### GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseindevat&show_icons=true&locale=en&layout=compact&theme=dark" alt="hosseindevat" />
