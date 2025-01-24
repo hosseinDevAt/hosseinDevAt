@@ -47,9 +47,6 @@ Languages and Tools:
 <br>
 GitHub Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseindevat&show_icons=true&locale=en&layout=compact&theme=onedark" alt="hosseindevat" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseindevat&show_icons=true&locale=en&theme=onedark" alt="hosseindevat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseindevat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="hosseindevat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hosseindevat&show_icons=true&locale=en&theme=dracula" alt="hosseindevat" />
 </p>
