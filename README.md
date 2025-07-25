@@ -1,42 +1,51 @@
-![logo](https://github.com/hosseinDevAt/hosseinDevAt/blob/main/pic.webp)
+<h2 align="left">Hi 👋! My name is Hossein</h2>
 
-<h1 align="center">Hi 👋, I'm Hossein</h1>
-<h3 align="center">A passionate Kotlin developer</h3>
+###
 
-<br>
-<img align="right" alt="HosseinDevAt" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 
-- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/hosseinDevAt)
-- 📫 How to reach me: [hosseinhosseiniat@gmail.com](mailto:hosseinhosseiniat@gmail.com)
-<br>
-Connect with me:
-<br>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hosseindevat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"/>
-  </a> 
-  <a href="https://github.com/hosseinDevAt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150"/>
-  </a>
-</p>
-<br>
-Languages and Tools:
-<br>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-</p>
-<br>
-GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseindevat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="hosseindevat" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hosseindevat&show_icons=true&locale=en&theme=dracula" alt="hosseindevat" />
-</p>
+###
+
+<h4 align="left">Languages and Tools:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="30" alt="jetpackcompose logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="30" alt="ktor logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me:</h3>
+
+###
+
+<div align="left">
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=hosseinhosseiniat@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href = "https://www.linkedin.com/in/thehosseinhosseini" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hosseinDevAt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseinDevAt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosseinDevAt/hosseinDevAt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hosseinDevAt/hosseinDevAt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hosseinDevAt/hosseinDevAt/output/pacman-contribution-graph.svg">
+</picture>
+
+###
