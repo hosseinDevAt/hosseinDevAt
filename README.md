@@ -1,14 +1,10 @@
 ![logo](https://github.com/hosseinDevAt/hosseinDevAt/blob/main/pic.webp)
 
 <h1 align="center">Hi 👋, I'm Hossein</h1>
-<h3 align="center">A passionate Kotlin developer from Iran</h3>
+<h3 align="center">A passionate Kotlin developer</h3>
 
 <br>
 <img align="right" alt="HosseinDevAt" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hosseindevat&label=Profile%20views&color=0e75b6&style=flat" alt="hosseindevat" /> 
-</p>
 
 - 🌱 I’m currently learning **Kotlin and Jetpack Compose**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/hosseinDevAt)
